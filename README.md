@@ -58,6 +58,8 @@ Platforms for finding, qualifying, and prioritising investors.
 
 - [**Dealroom**](https://dealroom.net/) → Startup and VC database, widely used for ecosystem mapping (especially strong in Europe).
 
+- [**vcfirmsdirectory.com**](https://vcfirmsdirectory.com/) → Directory of 4,200 VC firms in 65 countries built from SEC, ESMA and Companies House registers, with offices and fund vehicles.
+
 ---
 
 ## **CRM & Dealflow Management**
